@@ -23,4 +23,4 @@ setInterval(async () => {
   } catch (error) {
     console.log(error);
   }
-}, 3600); // 10000 milliseconds = 10 seconds
+}, 10000); // 10000 milliseconds = 10 seconds
